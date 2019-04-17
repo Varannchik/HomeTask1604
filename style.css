@@ -17,7 +17,7 @@
   border-radius: 50%;
   background: red;
   position: absolute;
-  bottom: 100%;
+  bottom: 0%;
   left: 50px;
   -webkit-animation: ball 7s  infinite;
           animation: ball 7s  infinite;
